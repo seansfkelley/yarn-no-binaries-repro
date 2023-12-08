@@ -1,0 +1,9 @@
+{
+  "name": "a",
+  "installConfig": {
+    "hoistingLimits": "dependencies"
+  },
+  "dependencies": {
+    "webpack": "^5.89.0"
+  }
+}
